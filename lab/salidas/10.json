@@ -1,0 +1,13 @@
+{
+    "inicial": "q_s84",
+    "finales": [
+        "q_s85"
+    ],
+    "transiciones": {
+        "q_s84": {
+            "a": [
+                "q_s85"
+            ]
+        }
+    }
+}
